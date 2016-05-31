@@ -67,18 +67,14 @@ Good-bye!<br></td>
 
 <hr>
 <p><b>Зміст розділу:</b></p>
-<ul type="disc">
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english/content/1/lyngvystykhna_kompetenzia.html">Лінгвістична компетенція</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english/content/1/soziokulturna_kompetenzia.html">Соціокультурна компетенція</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english/content/1/zagalnonavchalna_kompetenzya.html">Загальнонавчальна компетенція</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english/content/1/na_kynec_1_klasu_uchny_povunny_vmyty.html">На кінець 1-го класу</a></li>
-<ul type="circle">
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english/content/1/audiyuvannya.html">Аудіювання</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english/content/1/govorinnya.html">Говоріння</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english/content/1/chitannya.html">Читання</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english/content/1/pysmo.html">Письмо</a></li>
-</ul>
-</ul>
+   * [Лінгвістична компетенція](lyngvystykhna_kompetenzia.md)
+   * [Соціокультурна компетенція](soziokulturna_kompetenzia.md)
+   * [Загальнонавчальна компетенція](zagalnonavchalna_kompetenzya.md)
+   * [На кінець 1-го класу](na_kynec_1_klasu_uchny_povunny_vmyty.md)
+       * [Аудіювання](audiyuvannya.md)
+       * [Говоріння](govorinnya.md)
+       * [Читання](chitannya.md)
+       * [Письмо](pysmo.md)
 
 <div class="js-hypercomments-container">
     <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
