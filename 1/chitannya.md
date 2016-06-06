@@ -3,19 +3,15 @@
 # Читання
 
 <table>
-<thead>
   <tr>
-    <th>Читання</th>
+    <td align="center"><b>Читання</b></td>
   </tr>
-</thead>
-<tbody>
 <td style="vertical-align:top !important;">
 На кінець 1-го класу учні:
 <ul>
 <li>називають букви алфавіту;</li>
 <li>озвучують засвоєні в усному мовленні слова, словосполучення.</li>
 </td>
-</tbody>
 </table>
 
 <div class="js-hypercomments-container">

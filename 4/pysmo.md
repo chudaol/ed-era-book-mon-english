@@ -3,12 +3,9 @@
 # Письмо
 
 <table>
-<thead>
   <tr>
-    <th>Письмо</th>
+    <td align="center"><b>Письмо</b></td>
   </tr>
-</thead>
-<tbody>
 <td style="vertical-align:top !important;">
 На кінець 4-го класу учні:
 <ul>
@@ -18,7 +15,6 @@
 </ul>
 Обсяг письмового повідомлення — 6-5 речень.<br>
 </td>
-</tbody>
 </table>
 
 <div class="js-hypercomments-container">

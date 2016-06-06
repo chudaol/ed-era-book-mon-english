@@ -3,12 +3,9 @@
 # Аудіювання
 
 <table>
-<thead>
   <tr>
-    <th>Аудіювання</th>
+    <td align="center"><b>Аудіювання</b></td>
   </tr>
-</thead>
-<tbody>
 <td style="vertical-align:top !important;">
 На кінець 2-го класу учні:
 <ul>
@@ -18,7 +15,6 @@
 <li>розуміють основну ідею адаптованого аудіо/відео запису.</li>
 </ul>
 </td>
-</tbody>
 </table>
 
 <div class="js-hypercomments-container">

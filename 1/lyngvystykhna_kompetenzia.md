@@ -3,16 +3,13 @@
 # Лінгвістична компетенція
 
 <table>
-<thead>
   <tr>
-    <th colspan="3">Лінгвістична компетенція</th>
+    <td align="center" colspan="3"><b>Лінгвістична компетенція</b></td>
   </tr>
-</thead>
-<tbody>
             <tr>
-                <th>лексична</th>
-                <th>граматична</th>
-                <th>фонетична</th>
+                <td align="center"><b>лексична</b></td>
+                <td align="center"><b>граматична</b></td>
+                <td align="center"><b>фонетична</b></td>
             </tr>
             <tr>
                 <td width="25%" style="vertical-align:top !important;">
@@ -34,7 +31,6 @@
 Спонукальні речення у стверджувальній та заперечувальній формах. <i>Stand up. Don’t stand up.</i></td>
                 <td width="25%" style="vertical-align:top !important;">Дотримання апроксимованої вимови з урахуванням особливостей англійської мови під час промовляння слів і висловів.</td>
             </tr>
-</tbody>
 </table>
 
 <div class="js-hypercomments-container">

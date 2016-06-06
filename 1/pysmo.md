@@ -3,19 +3,15 @@
 # Письмо
 
 <table>
-<thead>
   <tr>
-    <th>Письмо</th>
+    <td align="center"><b>Письмо</b></td>
   </tr>
-</thead>
-<tbody>
 <td style="vertical-align:top !important;">
 На кінець 1-го класу учні:
 <ul>
 <li>пишуть літери алфавіту;</li>
 <li>відтворюють графічний образ букв, слів, словосполучень, коротких речень.</li>
 </td>
-</tbody>
 </table>
 
 <div class="js-hypercomments-container">
