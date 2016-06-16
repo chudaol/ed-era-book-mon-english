@@ -63,7 +63,7 @@ Are they/you going to …?<br>
    * [Лінгвістична компетенція](lyngvystykhna_kompetenzia.md)
    * [Соціокультурна компетенція](soziokulturna_kompetenzia.md)
    * [Загальнонавчальна компетенція](zagalnonavchalna_kompetenzya.md)
-   * [На кінець 4-го класу](na_kynec_4_klasu_uchny_povunny_vmyty.md)
+   * [Мовленнєва компетенція](na_kynec_4_klasu_uchny_povunny_vmyty.md)
        * [Аудіювання](audiyuvannya.md)
        * [Говоріння](govorinnya.md)
        * [Читання](chitannya.md)

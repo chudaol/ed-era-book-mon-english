@@ -66,7 +66,7 @@ Good-bye!<br></td>
    * [Лінгвістична компетенція](lyngvystykhna_kompetenzia.md)
    * [Соціокультурна компетенція](soziokulturna_kompetenzia.md)
    * [Загальнонавчальна компетенція](zagalnonavchalna_kompetenzya.md)
-   * [На кінець 1-го класу](na_kynec_1_klasu_uchny_povunny_vmyty.md)
+   * [Мовленнєва компетенція](na_kynec_1_klasu_uchny_povunny_vmyty.md)
        * [Аудіювання](audiyuvannya.md)
        * [Говоріння](govorinnya.md)
        * [Читання](chitannya.md)
